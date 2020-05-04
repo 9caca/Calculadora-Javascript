@@ -13,12 +13,37 @@
     padding: 10px;
 }
 
+.conteudoPrincipal .container {
+    width: 100%;
+    padding: 0;
+}
+
+.caixaInformacao {
+    font-family: "Open Sans", sans-serif;
+    text-align: justify;
+    line-height: 1.2;
+    font-size: 1.3em;
+    background-color: #3D52D5;
+    color: #FFFFFF;
+    width: 15em;
+    padding: 1rem;
+    box-sizing: border-box;
+    float: left;
+}
+
+.caixaInformacao a {
+    color: inherit;
+    font-family: "Open Sans Condensed", "Arial", sans-serif;
+    text-transform: lowercase;
+}
+
 .areaCalculadora{
     max-width: 600px;
     margin-top: 5em;
     padding: 30px;
-    background-color: #FFFFFF;
+    background-color: white;
     border-radius: 10px;
+    float: left;
 }
 
 #inputDisplayResultado{
@@ -33,27 +58,7 @@
 
 .row div button{
     width: 100%;
-}
-
-.navegacao-site {
-    font-family: "Open Sans", sans-serif;
-    text-align: justify;
-    line-height: 1.5;
-    font-size: 1.3em;
-    background-color: #3D52D5;
-    color: #FFFFFF;
-    width: 20ch;
-    padding: 1rem;
-    box-sizing: border-box;
-    float: left;
-    position: absolute;
-    top: 45px;
-}
-
-.navegacao-site a {
-    color: inherit;
-    font-family: "Open Sans Condensed", "Arial", sans-serif;
-    text-transform: lowercase;
+    position: relative;
 }
 
 .rodape-pagina {
