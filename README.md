@@ -5,9 +5,13 @@
 <p align="center">
 Projeto criado com intuito de estudo e aprendizagem de Javascript, HTML5 e CSS3. O objetivo é criar uma calculadora simples.<br>
 
+<img src="CSS finalizado.png" alt="example screenshot"/>
+
+>Print de tela do resultado do projeto.
+<br/>
 <img src="Calculadora Javascript.png" alt="example screenshot"/>
 
->Este é um esboço do resultado esperado.
+>Este é um esboço do resultado que era esperado.
 </p><br/>
 
 <br/>
